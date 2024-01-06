@@ -18,23 +18,25 @@ To run the BMI calculator in Python, use the following command:
 
 ```bash
 python bmi_calculator.py
+```
 
-C#
+### C
 To compile and run the BMI calculator in C#, use the following commands:
-
+```bash
 csc bmi_calculator.cs
 ./bmi_calculator.exe
+```
 
-Ruby
+### Ruby
 To run the BMI calculator in Ruby, use the following command:
-
+```bash
 ruby bmi_calculator.rb
-
-Go
+```
+### Go
 To run the BMI calculator in Go, use the following command:
-
+```bash
 tclsh bmi_calculator.tcl
-
+```
 
 Contributing
 Contributions are welcome! For major changes, please open an issue first to discuss what you would like to change.
